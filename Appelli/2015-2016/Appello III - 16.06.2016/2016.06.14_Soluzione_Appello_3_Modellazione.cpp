@@ -1,3 +1,4 @@
+/*
 class FileAudio {
 private:
     unsigned int dimMB;
@@ -99,20 +100,4 @@ public:
     
     
 }; // MusicPlay.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*/
